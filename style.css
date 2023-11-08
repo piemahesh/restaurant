@@ -22,4 +22,8 @@ body {
     background-color: orange;
     color: white;
 }
+html,body{
+    overflow-x:hidden;
+    max-width:100%;
+}
 
